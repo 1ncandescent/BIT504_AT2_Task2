@@ -6,7 +6,7 @@ public class Board {
 	// grid line half width
 	public static final int GRID_WIDHT_HALF = GRID_WIDTH / 2;
 	
-	//2D array of ROWS-by-COLS Cell instances
+	// 2D array of ROWS-by-COLS Cell instances
 	Cell [][] cells;
 	
 	/** Constructor to create the game board */
